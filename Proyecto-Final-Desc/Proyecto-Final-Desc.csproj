@@ -9,10 +9,18 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="data\" />
-    <Folder Include="data\input\" />
-    <Folder Include="metrics\" />
-    <Folder Include="docs\" />
+    <Compile Remove="data\**" />
+    <Compile Remove="docs\**" />
+    <Compile Remove="metrics\**" />
+    <EmbeddedResource Remove="data\**" />
+    <EmbeddedResource Remove="docs\**" />
+    <EmbeddedResource Remove="metrics\**" />
+    <None Remove="data\**" />
+    <None Remove="docs\**" />
+    <None Remove="metrics\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="src\Models\" />
     <Folder Include="src\Utils\" />
     <Folder Include="src\Services\" />

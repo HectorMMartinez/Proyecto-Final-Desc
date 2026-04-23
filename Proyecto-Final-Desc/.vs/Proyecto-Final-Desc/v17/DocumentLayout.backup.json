@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\hevto\\source\\repos\\ProyectoFinalParalelo\\Proyecto-Final-Desc\\Proyecto-Final-Desc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{264761D8-6DFA-4707-BD9D-E04FA2372F82}|Proyecto-Final-Desc.csproj|c:\\users\\hevto\\source\\repos\\proyectofinalparalelo\\proyecto-final-desc\\proyecto-final-desc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{264761D8-6DFA-4707-BD9D-E04FA2372F82}|Proyecto-Final-Desc.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{264761D8-6DFA-4707-BD9D-E04FA2372F82}|Proyecto-Final-Desc.csproj|c:\\users\\hevto\\source\\repos\\proyectofinalparalelo\\proyecto-final-desc\\proyecto-final-desc\\src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264761D8-6DFA-4707-BD9D-E04FA2372F82}|Proyecto-Final-Desc.csproj|solutionrelative:src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264761D8-6DFA-4707-BD9D-E04FA2372F82}|Proyecto-Final-Desc.csproj|c:\\users\\hevto\\source\\repos\\proyectofinalparalelo\\proyecto-final-desc\\proyecto-final-desc\\proyecto-final-desc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{264761D8-6DFA-4707-BD9D-E04FA2372F82}|Proyecto-Final-Desc.csproj|solutionrelative:proyecto-final-desc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hevto\\source\\repos\\ProyectoFinalParalelo\\Proyecto-Final-Desc\\Proyecto-Final-Desc\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\hevto\\source\\repos\\ProyectoFinalParalelo\\Proyecto-Final-Desc\\Proyecto-Final-Desc\\Program.cs",
-              "RelativeToolTip": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hevto\\source\\repos\\ProyectoFinalParalelo\\Proyecto-Final-Desc\\Proyecto-Final-Desc\\src\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Program.cs",
+              "ToolTip": "C:\\Users\\hevto\\source\\repos\\ProyectoFinalParalelo\\Proyecto-Final-Desc\\Proyecto-Final-Desc\\src\\Program.cs",
+              "RelativeToolTip": "src\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T18:23:22.681Z",
+              "WhenOpened": "2026-04-23T18:51:09.017Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Proyecto-Final-Desc",
+              "DocumentMoniker": "C:\\Users\\hevto\\source\\repos\\ProyectoFinalParalelo\\Proyecto-Final-Desc\\Proyecto-Final-Desc\\Proyecto-Final-Desc.csproj",
+              "RelativeDocumentMoniker": "Proyecto-Final-Desc.csproj",
+              "ToolTip": "C:\\Users\\hevto\\source\\repos\\ProyectoFinalParalelo\\Proyecto-Final-Desc\\Proyecto-Final-Desc\\Proyecto-Final-Desc.csproj*",
+              "RelativeToolTip": "Proyecto-Final-Desc.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-23T18:29:52.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
