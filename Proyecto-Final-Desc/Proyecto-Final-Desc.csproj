@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Proyecto_Final_Desc</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="data\" />
+    <Folder Include="data\input\" />
+    <Folder Include="metrics\" />
+    <Folder Include="docs\" />
+    <Folder Include="src\Models\" />
+    <Folder Include="src\Utils\" />
+    <Folder Include="src\Services\" />
+  </ItemGroup>
+
+</Project>

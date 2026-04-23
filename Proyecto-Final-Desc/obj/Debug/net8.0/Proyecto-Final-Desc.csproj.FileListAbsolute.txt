@@ -1,0 +1,5 @@
+C:\Users\hevto\source\repos\ProyectoFinalParalelo\Proyecto-Final-Desc\Proyecto-Final-Desc\obj\Debug\net8.0\Proyecto-Final-Desc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hevto\source\repos\ProyectoFinalParalelo\Proyecto-Final-Desc\Proyecto-Final-Desc\obj\Debug\net8.0\Proyecto-Final-Desc.AssemblyInfoInputs.cache
+C:\Users\hevto\source\repos\ProyectoFinalParalelo\Proyecto-Final-Desc\Proyecto-Final-Desc\obj\Debug\net8.0\Proyecto-Final-Desc.AssemblyInfo.cs
+C:\Users\hevto\source\repos\ProyectoFinalParalelo\Proyecto-Final-Desc\Proyecto-Final-Desc\obj\Debug\net8.0\Proyecto-Final-Desc.csproj.CoreCompileInputs.cache
+C:\Users\hevto\source\repos\ProyectoFinalParalelo\Proyecto-Final-Desc\Proyecto-Final-Desc\obj\Debug\net8.0\Proyecto-Final-Desc.sourcelink.json
