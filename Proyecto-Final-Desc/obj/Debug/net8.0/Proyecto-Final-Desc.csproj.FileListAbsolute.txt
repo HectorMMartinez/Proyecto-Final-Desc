@@ -3,3 +3,16 @@ C:\Users\hevto\source\repos\ProyectoFinalParalelo\Proyecto-Final-Desc\Proyecto-F
 C:\Users\hevto\source\repos\ProyectoFinalParalelo\Proyecto-Final-Desc\Proyecto-Final-Desc\obj\Debug\net8.0\Proyecto-Final-Desc.AssemblyInfo.cs
 C:\Users\hevto\source\repos\ProyectoFinalParalelo\Proyecto-Final-Desc\Proyecto-Final-Desc\obj\Debug\net8.0\Proyecto-Final-Desc.csproj.CoreCompileInputs.cache
 C:\Users\hevto\source\repos\ProyectoFinalParalelo\Proyecto-Final-Desc\Proyecto-Final-Desc\obj\Debug\net8.0\Proyecto-Final-Desc.sourcelink.json
+C:\Users\hevto\source\repos\ProyectoFinalParalelo\Proyecto-Final-Desc\Proyecto-Final-Desc\bin\Debug\net8.0\Proyecto-Final-Desc.exe
+C:\Users\hevto\source\repos\ProyectoFinalParalelo\Proyecto-Final-Desc\Proyecto-Final-Desc\bin\Debug\net8.0\Proyecto-Final-Desc.deps.json
+C:\Users\hevto\source\repos\ProyectoFinalParalelo\Proyecto-Final-Desc\Proyecto-Final-Desc\bin\Debug\net8.0\Proyecto-Final-Desc.runtimeconfig.json
+C:\Users\hevto\source\repos\ProyectoFinalParalelo\Proyecto-Final-Desc\Proyecto-Final-Desc\bin\Debug\net8.0\Proyecto-Final-Desc.dll
+C:\Users\hevto\source\repos\ProyectoFinalParalelo\Proyecto-Final-Desc\Proyecto-Final-Desc\bin\Debug\net8.0\Proyecto-Final-Desc.pdb
+C:\Users\hevto\source\repos\ProyectoFinalParalelo\Proyecto-Final-Desc\Proyecto-Final-Desc\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\hevto\source\repos\ProyectoFinalParalelo\Proyecto-Final-Desc\Proyecto-Final-Desc\obj\Debug\net8.0\Proyecto-Final-Desc.csproj.AssemblyReference.cache
+C:\Users\hevto\source\repos\ProyectoFinalParalelo\Proyecto-Final-Desc\Proyecto-Final-Desc\obj\Debug\net8.0\Proyecto.1AE55732.Up2Date
+C:\Users\hevto\source\repos\ProyectoFinalParalelo\Proyecto-Final-Desc\Proyecto-Final-Desc\obj\Debug\net8.0\Proyecto-Final-Desc.dll
+C:\Users\hevto\source\repos\ProyectoFinalParalelo\Proyecto-Final-Desc\Proyecto-Final-Desc\obj\Debug\net8.0\refint\Proyecto-Final-Desc.dll
+C:\Users\hevto\source\repos\ProyectoFinalParalelo\Proyecto-Final-Desc\Proyecto-Final-Desc\obj\Debug\net8.0\Proyecto-Final-Desc.pdb
+C:\Users\hevto\source\repos\ProyectoFinalParalelo\Proyecto-Final-Desc\Proyecto-Final-Desc\obj\Debug\net8.0\Proyecto-Final-Desc.genruntimeconfig.cache
+C:\Users\hevto\source\repos\ProyectoFinalParalelo\Proyecto-Final-Desc\Proyecto-Final-Desc\obj\Debug\net8.0\ref\Proyecto-Final-Desc.dll

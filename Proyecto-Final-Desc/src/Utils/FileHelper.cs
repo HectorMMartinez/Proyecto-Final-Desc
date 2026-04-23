@@ -1,12 +1,23 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Proyecto_Final_Desc.src.Utils
+﻿namespace ProyectoFinalParalela.Utils
 {
-    internal class FileHelper
+    public static class FileHelper
     {
+        public static string FormatFileSize(long bytes)
+        {
+            const double KB = 1024;
+            const double MB = KB * 1024;
+            const double GB = MB * 1024;
+
+            if (bytes >= GB)
+                return $"{bytes / GB:F2} GB";
+
+            if (bytes >= MB)
+                return $"{bytes / MB:F2} MB";
+
+            if (bytes >= KB)
+                return $"{bytes / KB:F2} KB";
+
+            return $"{bytes} bytes";
+        }
     }
 }
