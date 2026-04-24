@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\hevto\\source\\repos\\ProyectoFinalParalelo\\Proyecto-Final-Desc\\Proyecto-Final-Desc\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{264761D8-6DFA-4707-BD9D-E04FA2372F82}|Proyecto-Final-Desc.csproj|c:\\users\\hevto\\source\\repos\\proyectofinalparalelo\\proyecto-final-desc\\proyecto-final-desc\\src\\services\\simulacionventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264761D8-6DFA-4707-BD9D-E04FA2372F82}|Proyecto-Final-Desc.csproj|solutionrelative:src\\services\\simulacionventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{264761D8-6DFA-4707-BD9D-E04FA2372F82}|Proyecto-Final-Desc.csproj|c:\\users\\hevto\\source\\repos\\proyectofinalparalelo\\proyecto-final-desc\\proyecto-final-desc\\src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{264761D8-6DFA-4707-BD9D-E04FA2372F82}|Proyecto-Final-Desc.csproj|solutionrelative:src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{264761D8-6DFA-4707-BD9D-E04FA2372F82}|Proyecto-Final-Desc.csproj|c:\\users\\hevto\\source\\repos\\proyectofinalparalelo\\proyecto-final-desc\\proyecto-final-desc\\src\\services\\metricsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{264761D8-6DFA-4707-BD9D-E04FA2372F82}|Proyecto-Final-Desc.csproj|solutionrelative:src\\services\\metricsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{264761D8-6DFA-4707-BD9D-E04FA2372F82}|Proyecto-Final-Desc.csproj|c:\\users\\hevto\\source\\repos\\proyectofinalparalelo\\proyecto-final-desc\\proyecto-final-desc\\src\\services\\archivosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264761D8-6DFA-4707-BD9D-E04FA2372F82}|Proyecto-Final-Desc.csproj|solutionrelative:src\\services\\archivosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{264761D8-6DFA-4707-BD9D-E04FA2372F82}|Proyecto-Final-Desc.csproj|c:\\users\\hevto\\source\\repos\\proyectofinalparalelo\\proyecto-final-desc\\proyecto-final-desc\\src\\services\\sequentialanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{264761D8-6DFA-4707-BD9D-E04FA2372F82}|Proyecto-Final-Desc.csproj|solutionrelative:src\\services\\sequentialanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{264761D8-6DFA-4707-BD9D-E04FA2372F82}|Proyecto-Final-Desc.csproj|c:\\users\\hevto\\source\\repos\\proyectofinalparalelo\\proyecto-final-desc\\proyecto-final-desc\\src\\services\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264761D8-6DFA-4707-BD9D-E04FA2372F82}|Proyecto-Final-Desc.csproj|solutionrelative:src\\services\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{264761D8-6DFA-4707-BD9D-E04FA2372F82}|Proyecto-Final-Desc.csproj|c:\\users\\hevto\\source\\repos\\proyectofinalparalelo\\proyecto-final-desc\\proyecto-final-desc\\src\\services\\parallelanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{264761D8-6DFA-4707-BD9D-E04FA2372F82}|Proyecto-Final-Desc.csproj|solutionrelative:src\\services\\parallelanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{264761D8-6DFA-4707-BD9D-E04FA2372F82}|Proyecto-Final-Desc.csproj|c:\\users\\hevto\\source\\repos\\proyectofinalparalelo\\proyecto-final-desc\\proyecto-final-desc\\src\\services\\metricaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264761D8-6DFA-4707-BD9D-E04FA2372F82}|Proyecto-Final-Desc.csproj|solutionrelative:src\\services\\metricaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{264761D8-6DFA-4707-BD9D-E04FA2372F82}|Proyecto-Final-Desc.csproj|c:\\users\\hevto\\source\\repos\\proyectofinalparalelo\\proyecto-final-desc\\proyecto-final-desc\\src\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{264761D8-6DFA-4707-BD9D-E04FA2372F82}|Proyecto-Final-Desc.csproj|solutionrelative:src\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{264761D8-6DFA-4707-BD9D-E04FA2372F82}|Proyecto-Final-Desc.csproj|c:\\users\\hevto\\source\\repos\\proyectofinalparalelo\\proyecto-final-desc\\proyecto-final-desc\\src\\models\\metadataarchivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264761D8-6DFA-4707-BD9D-E04FA2372F82}|Proyecto-Final-Desc.csproj|solutionrelative:src\\models\\metadataarchivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{264761D8-6DFA-4707-BD9D-E04FA2372F82}|Proyecto-Final-Desc.csproj|c:\\users\\hevto\\source\\repos\\proyectofinalparalelo\\proyecto-final-desc\\proyecto-final-desc\\src\\models\\analysisresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{264761D8-6DFA-4707-BD9D-E04FA2372F82}|Proyecto-Final-Desc.csproj|solutionrelative:src\\models\\analysisresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{264761D8-6DFA-4707-BD9D-E04FA2372F82}|Proyecto-Final-Desc.csproj|c:\\users\\hevto\\source\\repos\\proyectofinalparalelo\\proyecto-final-desc\\proyecto-final-desc\\src\\models\\resultadosimulacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264761D8-6DFA-4707-BD9D-E04FA2372F82}|Proyecto-Final-Desc.csproj|solutionrelative:src\\models\\resultadosimulacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{264761D8-6DFA-4707-BD9D-E04FA2372F82}|Proyecto-Final-Desc.csproj|c:\\users\\hevto\\source\\repos\\proyectofinalparalelo\\proyecto-final-desc\\proyecto-final-desc\\src\\models\\salesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{264761D8-6DFA-4707-BD9D-E04FA2372F82}|Proyecto-Final-Desc.csproj|solutionrelative:src\\models\\salesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{264761D8-6DFA-4707-BD9D-E04FA2372F82}|Proyecto-Final-Desc.csproj|c:\\users\\hevto\\source\\repos\\proyectofinalparalelo\\proyecto-final-desc\\proyecto-final-desc\\src\\models\\registroventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264761D8-6DFA-4707-BD9D-E04FA2372F82}|Proyecto-Final-Desc.csproj|solutionrelative:src\\models\\registroventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264761D8-6DFA-4707-BD9D-E04FA2372F82}|Proyecto-Final-Desc.csproj|c:\\users\\hevto\\source\\repos\\proyectofinalparalelo\\proyecto-final-desc\\proyecto-final-desc\\src\\utils\\processorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264761D8-6DFA-4707-BD9D-E04FA2372F82}|Proyecto-Final-Desc.csproj|solutionrelative:src\\utils\\processorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,93 +54,119 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MetricsService.cs",
-              "DocumentMoniker": "C:\\Users\\hevto\\source\\repos\\ProyectoFinalParalelo\\Proyecto-Final-Desc\\Proyecto-Final-Desc\\src\\Services\\MetricsService.cs",
-              "RelativeDocumentMoniker": "src\\Services\\MetricsService.cs",
-              "ToolTip": "C:\\Users\\hevto\\source\\repos\\ProyectoFinalParalelo\\Proyecto-Final-Desc\\Proyecto-Final-Desc\\src\\Services\\MetricsService.cs",
-              "RelativeToolTip": "src\\Services\\MetricsService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T21:20:10.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ParallelAnalysisService.cs",
-              "DocumentMoniker": "C:\\Users\\hevto\\source\\repos\\ProyectoFinalParalelo\\Proyecto-Final-Desc\\Proyecto-Final-Desc\\src\\Services\\ParallelAnalysisService.cs",
-              "RelativeDocumentMoniker": "src\\Services\\ParallelAnalysisService.cs",
-              "ToolTip": "C:\\Users\\hevto\\source\\repos\\ProyectoFinalParalelo\\Proyecto-Final-Desc\\Proyecto-Final-Desc\\src\\Services\\ParallelAnalysisService.cs",
-              "RelativeToolTip": "src\\Services\\ParallelAnalysisService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\hevto\\source\\repos\\ProyectoFinalParalelo\\Proyecto-Final-Desc\\Proyecto-Final-Desc\\src\\Services\\Calculadora.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\hevto\\source\\repos\\ProyectoFinalParalelo\\Proyecto-Final-Desc\\Proyecto-Final-Desc\\src\\Services\\Calculadora.cs",
+              "RelativeToolTip": "src\\Services\\Calculadora.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwDcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T21:17:50.641Z",
+              "WhenOpened": "2026-04-24T04:37:04.917Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SequentialAnalysisService.cs",
-              "DocumentMoniker": "C:\\Users\\hevto\\source\\repos\\ProyectoFinalParalelo\\Proyecto-Final-Desc\\Proyecto-Final-Desc\\src\\Services\\SequentialAnalysisService.cs",
-              "RelativeDocumentMoniker": "src\\Services\\SequentialAnalysisService.cs",
-              "ToolTip": "C:\\Users\\hevto\\source\\repos\\ProyectoFinalParalelo\\Proyecto-Final-Desc\\Proyecto-Final-Desc\\src\\Services\\SequentialAnalysisService.cs",
-              "RelativeToolTip": "src\\Services\\SequentialAnalysisService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T20:50:53.22Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hevto\\source\\repos\\ProyectoFinalParalelo\\Proyecto-Final-Desc\\Proyecto-Final-Desc\\src\\Program.cs",
-              "RelativeDocumentMoniker": "src\\Program.cs",
-              "ToolTip": "C:\\Users\\hevto\\source\\repos\\ProyectoFinalParalelo\\Proyecto-Final-Desc\\Proyecto-Final-Desc\\src\\Program.cs",
-              "RelativeToolTip": "src\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T20:52:13.93Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FileService.cs",
-              "DocumentMoniker": "C:\\Users\\hevto\\source\\repos\\ProyectoFinalParalelo\\Proyecto-Final-Desc\\Proyecto-Final-Desc\\src\\Services\\FileService.cs",
-              "RelativeDocumentMoniker": "src\\Services\\FileService.cs",
-              "ToolTip": "C:\\Users\\hevto\\source\\repos\\ProyectoFinalParalelo\\Proyecto-Final-Desc\\Proyecto-Final-Desc\\src\\Services\\FileService.cs",
-              "RelativeToolTip": "src\\Services\\FileService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Title": "ArchivosService.cs",
+              "DocumentMoniker": "C:\\Users\\hevto\\source\\repos\\ProyectoFinalParalelo\\Proyecto-Final-Desc\\Proyecto-Final-Desc\\src\\Services\\ArchivosService.cs",
+              "RelativeDocumentMoniker": "src\\Services\\ArchivosService.cs",
+              "ToolTip": "C:\\Users\\hevto\\source\\repos\\ProyectoFinalParalelo\\Proyecto-Final-Desc\\Proyecto-Final-Desc\\src\\Services\\ArchivosService.cs",
+              "RelativeToolTip": "src\\Services\\ArchivosService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-23T21:06:07.3Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AnalysisResult.cs",
-              "DocumentMoniker": "C:\\Users\\hevto\\source\\repos\\ProyectoFinalParalelo\\Proyecto-Final-Desc\\Proyecto-Final-Desc\\src\\Models\\AnalysisResult.cs",
-              "RelativeDocumentMoniker": "src\\Models\\AnalysisResult.cs",
-              "ToolTip": "C:\\Users\\hevto\\source\\repos\\ProyectoFinalParalelo\\Proyecto-Final-Desc\\Proyecto-Final-Desc\\src\\Models\\AnalysisResult.cs",
-              "RelativeToolTip": "src\\Models\\AnalysisResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hevto\\source\\repos\\ProyectoFinalParalelo\\Proyecto-Final-Desc\\Proyecto-Final-Desc\\src\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Program.cs",
+              "ToolTip": "C:\\Users\\hevto\\source\\repos\\ProyectoFinalParalelo\\Proyecto-Final-Desc\\Proyecto-Final-Desc\\src\\Program.cs*",
+              "RelativeToolTip": "src\\Program.cs*",
+              "ViewState": "AgIAAKQAAAAAAAAAAADwv7sAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T21:05:47.576Z",
+              "WhenOpened": "2026-04-23T20:52:13.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimulacionVentaService.cs",
+              "DocumentMoniker": "C:\\Users\\hevto\\source\\repos\\ProyectoFinalParalelo\\Proyecto-Final-Desc\\Proyecto-Final-Desc\\src\\Services\\SimulacionVentaService.cs",
+              "RelativeDocumentMoniker": "src\\Services\\SimulacionVentaService.cs",
+              "ToolTip": "C:\\Users\\hevto\\source\\repos\\ProyectoFinalParalelo\\Proyecto-Final-Desc\\Proyecto-Final-Desc\\src\\Services\\SimulacionVentaService.cs*",
+              "RelativeToolTip": "src\\Services\\SimulacionVentaService.cs*",
+              "ViewState": "AgIAAEsAAAAAAAAAAAArwF8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T03:49:01.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MetricaService.cs",
+              "DocumentMoniker": "C:\\Users\\hevto\\source\\repos\\ProyectoFinalParalelo\\Proyecto-Final-Desc\\Proyecto-Final-Desc\\src\\Services\\MetricaService.cs",
+              "RelativeDocumentMoniker": "src\\Services\\MetricaService.cs",
+              "ToolTip": "C:\\Users\\hevto\\source\\repos\\ProyectoFinalParalelo\\Proyecto-Final-Desc\\Proyecto-Final-Desc\\src\\Services\\MetricaService.cs",
+              "RelativeToolTip": "src\\Services\\MetricaService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T03:56:10.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MetadataArchivo.cs",
+              "DocumentMoniker": "C:\\Users\\hevto\\source\\repos\\ProyectoFinalParalelo\\Proyecto-Final-Desc\\Proyecto-Final-Desc\\src\\Models\\MetadataArchivo.cs",
+              "RelativeDocumentMoniker": "src\\Models\\MetadataArchivo.cs",
+              "ToolTip": "C:\\Users\\hevto\\source\\repos\\ProyectoFinalParalelo\\Proyecto-Final-Desc\\Proyecto-Final-Desc\\src\\Models\\MetadataArchivo.cs",
+              "RelativeToolTip": "src\\Models\\MetadataArchivo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T03:00:12.457Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "SalesRecord.cs",
-              "DocumentMoniker": "C:\\Users\\hevto\\source\\repos\\ProyectoFinalParalelo\\Proyecto-Final-Desc\\Proyecto-Final-Desc\\src\\Models\\SalesRecord.cs",
-              "RelativeDocumentMoniker": "src\\Models\\SalesRecord.cs",
-              "ToolTip": "C:\\Users\\hevto\\source\\repos\\ProyectoFinalParalelo\\Proyecto-Final-Desc\\Proyecto-Final-Desc\\src\\Models\\SalesRecord.cs",
-              "RelativeToolTip": "src\\Models\\SalesRecord.cs",
+              "Title": "ResultadoSimulacion.cs",
+              "DocumentMoniker": "C:\\Users\\hevto\\source\\repos\\ProyectoFinalParalelo\\Proyecto-Final-Desc\\Proyecto-Final-Desc\\src\\Models\\ResultadoSimulacion.cs",
+              "RelativeDocumentMoniker": "src\\Models\\ResultadoSimulacion.cs",
+              "ToolTip": "C:\\Users\\hevto\\source\\repos\\ProyectoFinalParalelo\\Proyecto-Final-Desc\\Proyecto-Final-Desc\\src\\Models\\ResultadoSimulacion.cs",
+              "RelativeToolTip": "src\\Models\\ResultadoSimulacion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T03:48:44.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegistroVenta.cs",
+              "DocumentMoniker": "C:\\Users\\hevto\\source\\repos\\ProyectoFinalParalelo\\Proyecto-Final-Desc\\Proyecto-Final-Desc\\src\\Models\\RegistroVenta.cs",
+              "RelativeDocumentMoniker": "src\\Models\\RegistroVenta.cs",
+              "ToolTip": "C:\\Users\\hevto\\source\\repos\\ProyectoFinalParalelo\\Proyecto-Final-Desc\\Proyecto-Final-Desc\\src\\Models\\RegistroVenta.cs",
+              "RelativeToolTip": "src\\Models\\RegistroVenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-23T20:51:12.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProcessorHelper.cs",
+              "DocumentMoniker": "C:\\Users\\hevto\\source\\repos\\ProyectoFinalParalelo\\Proyecto-Final-Desc\\Proyecto-Final-Desc\\src\\Utils\\ProcessorHelper.cs",
+              "RelativeDocumentMoniker": "src\\Utils\\ProcessorHelper.cs",
+              "ToolTip": "C:\\Users\\hevto\\source\\repos\\ProyectoFinalParalelo\\Proyecto-Final-Desc\\Proyecto-Final-Desc\\src\\Utils\\ProcessorHelper.cs",
+              "RelativeToolTip": "src\\Utils\\ProcessorHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T03:56:16.967Z",
               "EditorCaption": ""
             }
           ]

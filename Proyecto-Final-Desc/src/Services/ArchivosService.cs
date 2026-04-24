@@ -1,16 +1,16 @@
-﻿using CsvHelper;
+﻿using System.Globalization;
+using CsvHelper;
 using CsvHelper.Configuration;
 using ProyectoFinalParalela.Models;
 using ProyectoFinalParalela.Utils;
-using System.Globalization;
 
 namespace ProyectoFinalParalela.Services
 {
-    public class FileService
+    public class ArchivosService
     {
         private readonly string _inputFolder;
 
-        public FileService()
+        public ArchivosService()
         {
             _inputFolder = Path.Combine(Directory.GetCurrentDirectory(), "..", "..", "..", "..", "data", "input");
             _inputFolder = Path.GetFullPath(_inputFolder);
@@ -25,34 +25,7 @@ namespace ProyectoFinalParalela.Services
                             .OrderBy(f => f)
                             .ToList();
         }
-        public IEnumerable<List<SalesRecord>> ReadCsvInBlocks(string filePath, int blockSize)
-        {
-            using var reader = new StreamReader(filePath);
-            using var csv = new CsvReader(reader, new CsvConfiguration(CultureInfo.InvariantCulture)
-            {
-                HeaderValidated = null,
-                MissingFieldFound = null
-            });
-
-            var block = new List<SalesRecord>(blockSize);
-
-            foreach (var record in csv.GetRecords<SalesRecord>())
-            {
-                block.Add(record);
-
-                if (block.Count >= blockSize)
-                {
-                    yield return block;
-                    block = new List<SalesRecord>(blockSize);
-                }
-            }
-
-            if (block.Count > 0)
-            {
-                yield return block;
-            }
-        }
-        public string ShowFileMenuAndSelect()
+        public string MostrarMenuArchivos()
         {
             var files = GetCsvFiles();
 
@@ -79,7 +52,7 @@ namespace ProyectoFinalParalela.Services
             }
         }
 
-        public List<SalesRecord> LoadCsv(string filePath)
+        public List<RegistroVenta> CargarCsv(string filePath)
         {
             using var reader = new StreamReader(filePath);
             using var csv = new CsvReader(reader, new CsvConfiguration(CultureInfo.InvariantCulture)
@@ -88,10 +61,10 @@ namespace ProyectoFinalParalela.Services
                 MissingFieldFound = null
             });
 
-            return csv.GetRecords<SalesRecord>().ToList();
+            return csv.GetRecords<RegistroVenta>().ToList();
         }
 
-        public FileMetadata GetFileMetadata(string filePath)
+        public FileMetadata ObtenerMetadata(string filePath)
         {
             var fileInfo = new FileInfo(filePath);
 
