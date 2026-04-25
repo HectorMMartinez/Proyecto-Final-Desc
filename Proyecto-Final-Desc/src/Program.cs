@@ -1,4 +1,5 @@
-﻿using ProyectoFinalParalela.Models;
+﻿using System.Diagnostics;
+using ProyectoFinalParalela.Models;
 using ProyectoFinalParalela.Services;
 
 namespace ProyectoFinalParalela
@@ -40,7 +41,7 @@ namespace ProyectoFinalParalela
 
                     Console.WriteLine("\nCargando CSV en memoria...");
 
-                    var loadSw = System.Diagnostics.Stopwatch.StartNew();
+                    var loadSw = Stopwatch.StartNew();
                     var records = fileService.CargarCsv(selectedFile);
                     loadSw.Stop();
 
